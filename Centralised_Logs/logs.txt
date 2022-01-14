@@ -1,0 +1,80 @@
+DATE : 2022-01-14 --- TIME : 09:35:59 		 Converting raw data to DataFrame 
+DATE : 2022-01-14 --- TIME : 09:35:59 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-14 --- TIME : 09:22:41 		 Collected inputs from HTML form 
+DATE : 2022-01-14 --- TIME : 09:22:41 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-14 --- TIME : 09:22:03 		 Formatted Data Successfully 
+DATE : 2022-01-14 --- TIME : 09:45:38 		 Extracted column length and column names from schema 
+DATE : 2022-01-14 --- TIME : 09:43:55 		 Column Length Validated 
+DATE : 2022-01-14 --- TIME : 09:43:55 		 Column Names Validated 
+DATE : 2022-01-14 --- TIME : 09:43:00 		 Data Validation Successfull 
+DATE : 2022-01-14 --- TIME : 09:54:55 		 Encoded all categorical columns successfully 
+DATE : 2022-01-14 --- TIME : 09:57:58 		 Successfully fould columns with null values 
+DATE : 2022-01-14 --- TIME : 09:57:23 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-14 --- TIME : 10:16:50 		 Data normalization Completed Successfully 
+DATE : 2022-01-14 --- TIME : 09:54:13 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-14 --- TIME : 11:01:31 		 Collected inputs from HTML form 
+DATE : 2022-01-14 --- TIME : 11:01:31 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-14 --- TIME : 11:01:31 		 Converting raw data to DataFrame 
+DATE : 2022-01-14 --- TIME : 11:01:31 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-14 --- TIME : 11:01:31 		 Formatted Data Successfully 
+DATE : 2022-01-14 --- TIME : 11:01:31 		 Extracted column length and column names from schema 
+DATE : 2022-01-14 --- TIME : 11:01:31 		 Column Length Validated 
+DATE : 2022-01-14 --- TIME : 11:01:31 		 Column Names Validated 
+DATE : 2022-01-14 --- TIME : 11:01:31 		 Data Validation Successfull 
+DATE : 2022-01-14 --- TIME : 11:01:31 		 Encoded all categorical columns successfully 
+DATE : 2022-01-14 --- TIME : 11:01:31 		 Successfully fould columns with null values 
+DATE : 2022-01-14 --- TIME : 11:01:31 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-14 --- TIME : 11:01:31 		 Data normalization Completed Successfully 
+DATE : 2022-01-14 --- TIME : 11:01:31 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-14 --- TIME : 11:02:21 		 Collected inputs from HTML form 
+DATE : 2022-01-14 --- TIME : 11:02:21 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-14 --- TIME : 11:02:21 		 Converting raw data to DataFrame 
+DATE : 2022-01-14 --- TIME : 11:02:21 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-14 --- TIME : 11:02:21 		 Formatted Data Successfully 
+DATE : 2022-01-14 --- TIME : 11:02:21 		 Extracted column length and column names from schema 
+DATE : 2022-01-14 --- TIME : 11:02:21 		 Column Length Validated 
+DATE : 2022-01-14 --- TIME : 11:02:21 		 Column Names Validated 
+DATE : 2022-01-14 --- TIME : 11:02:21 		 Data Validation Successfull 
+DATE : 2022-01-14 --- TIME : 11:02:21 		 Encoded all categorical columns successfully 
+DATE : 2022-01-14 --- TIME : 11:02:21 		 Successfully fould columns with null values 
+DATE : 2022-01-14 --- TIME : 11:02:21 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-14 --- TIME : 11:02:21 		 Data normalization Completed Successfully 
+DATE : 2022-01-14 --- TIME : 11:02:21 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Collected inputs from HTML form 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Converting raw data to DataFrame 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Formatted Data Successfully 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Extracted column length and column names from schema 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Column Length Validated 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Column Names Validated 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Data Validation Successfull 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Encoded all categorical columns successfully 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Successfully fould columns with null values 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Data normalization Completed Successfully 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Collected inputs from HTML form 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Converting raw data to DataFrame 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Formatted Data Successfully 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Extracted column length and column names from schema 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Column Length Validated 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Column Names Validated 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Data Validation Successfull 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Encoded all categorical columns successfully 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Successfully fould columns with null values 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Data normalization Completed Successfully 
+DATE : 2022-01-14 --- TIME : 21:45:41 		 Data Preprocessing Completed Successfully
+
+ 

@@ -1,0 +1,58 @@
+
+.col2{
+    position: absolute;
+    top: 110px;
+    right: 200px;
+}
+
+.col2 input select{
+    margin-left: 200px;
+    margin-top: -5px;
+}
+.form {
+    
+    border-radius: 25px;
+    border-color: black;
+    border-width: 5px;
+}
+    
+select,input,label{
+    margin-bottom: 10px;
+    margin-left: 0%;
+    display: table;
+}
+
+label {
+    position: absolute;
+    width: 150px;
+    left: 30px;
+    top: Xpx /* x to align nicely with the baseline of the text in the input */
+  }
+  
+select,input {
+    margin-left: 220px;
+    border-width:medium;
+    border-style: ridge;
+  }
+
+.content{
+    color: rgb(255, 255, 255);
+    padding: 8px;
+    border-radius: 25px;
+    border-style: double;
+    border-color: rgb(255, 255, 255);
+    border-width: 10px;
+    
+}
+
+.bg{
+    background-image:url("./results.jpg");
+    background-size: cover;
+    opacity:var(border-color)
+}
+
+.Predict {
+    
+    margin-left: 300px;
+    margin-top: 20px;
+}

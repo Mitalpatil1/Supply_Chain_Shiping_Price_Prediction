@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HEALTH COMMODITY SHIPMENT PRICE PREDICTION</title>
+    <link rel="stylesheet" href="../static/styles/index_page.css">
+
+</head>
+
+
+    <body class='bg'>
+            <div class="content" style="color:rgb(255, 254, 254);">
+                <h1 style="text-align: center">HEALTH COMMODITY SHIPMENT PRICE PREDICTION</h1>
+
+                <div class="form">
+                    <div class="col1">
+                    <p><u><b>Enter the Required Parameters :</b></u></p>
+                    <form action="/Prediction" method="POST" autocomplete="on">
+
+                        <label for="Country",class="Column1"><b>Country</b></label>
+                        <select name="Country" id="Country" >
+                            <option value="South Africa">South Africa</option>
+                            <option value="Nigeria">Nigeria</option>
+                            <option value="Côte d'Ivoire">Côte d'Ivoire</option>
+                            <option value="Uganda">Uganda</option>
+                            <option value="Vietnam">Vietnam</option>
+                            <option value="Zambia">Zambia</option>
+                            <option value="Haiti">Haiti</option>
+                            <option value="Mozambique">Mozambique</option>
+                            <option value="Zimbabwe">Zimbabwe</option>
+                            <option value="Other">Other</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+                        <label for="Manufacturing Site",class="Column1"><b>Manufacturing Site</b></label>
+                        <select name="Manufacturing Site" id="Manufacturing Site" >
+                            <option value="Aurobindo Unit III, India">Aurobindo Unit III, India</option>
+                            <option value="Mylan (formerly Matrix) Nashik">Mylan, Nashik</option>
+                            <option value="Hetero Unit III Hyderabad IN">Hetero Unit III ,Hyderabad</option>
+                            <option value="Cipla, Goa, India">Cipla, Goa, India</option>
+                            <option value="Strides, Bangalore, India">Strides,Bangalore,India</option>
+                            <option value="Alere Medical Co., Ltd.">Alere Medical Co. Ltd.</option>
+                            <option value="Trinity Biotech, Plc">Trinity Biotech, Plc</option>
+                            <option value="ABBVIE Ludwigshafen Germany">ABBVIE Logistics , Germany </option>
+                            <option value="Inverness Japan">Inverness Japan</option>
+                            <option value="Other">Other</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+                        <label for="Brand",class="Column1"><b>Brand</b></label>
+                        <select name="Brand" id="Brand" >
+                            <option value="Aluvia">Aluvia</option>
+                            <option value="Uni-Gold">Uni-Gold</option>
+                            <option value="Generic">Generic</option>
+                            <option value="Determine">Determine</option>
+                            <option value="Kaletra">Kaletra</option>
+                            <option value="Norvir">Norvir</option>
+                            <option value="Stat-Pak">Stat-Pak</option>
+                            <option value="Bioline">Bioline</option>
+                            <option value="Truvada">Truvada</option>
+                            <option value="Other">Other</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+                        <label for="Item Description",class="Column1"><b>Item Description</b></label>
+                        <select name="Item Description" id="Item Description" >
+                            <option value="Efavirenz 600mg, tablets, 30 Tabs">Efavirenz 600mg tablets</option>
+                            <option value="Nevirapine 200mg, tablets, 60 Tabs">Nevirapine 200mg tablets</option>
+                            <option value="Lamivudine/Zidovudine 150/300mg, tablets, 60 Tabs">Lamivudine/Zidovudine 150/300mg tablets</option>
+                            <option value="Lamivudine/Nevirapine/Zidovudine 150/200/300mg, tablets, 60 Tabs">Lamivud/Nevirap/Zidovud 150/200/300mg tablets</option>
+                            <option value="HIV 1/2, Determine Complete HIV Kit, 100 Tests">HIV 1/2, Determine Complete HIV Kit</option>
+                            <option value="Lamivudine 150mg, tablets, 60 Tabs">Lamivudine 150mg tablets</option>
+                            <option value="HIV 1/2, Uni-Gold HIV Kit, 20 Tests">HIV 1/2, Uni-Gold HIV Kit</option>
+                            <option value="Zidovudine 300mg, tablets, 60 Tabs">Zidovudine 300mg, tablets</option>
+                            <option value="Lamivudine/Tenofovir Disoproxil Fumarate 300/300mg, tablets, 30 Tabs">Lamivud/Tenofovir Fumarate 300/300mg tablets</option>
+                            <option value="Other">Other</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+                        
+
+                        <label for="Product Group",class="Column1"><b>Product Group</b></label>
+                        <select name="Product Group" id="Product Group" >
+                            <option value="ARV">Anti-Retroviral</option>
+                            <option value="HRDT">HIV Rapid Diagnostic Test</option>
+                            <option value="ANTM">ANTM</option>
+                            <option value="ACT"> Activated clotting time Test</option>
+                            <option value="MRDT">Malaria rapid diagnostic test</option>
+                        </select>
+                        
+                      
+
+                        <label for="Sub Classification",class="Column1"><b>Sub Classification</b></label>
+                        <select name="Sub Classification" id="Sub Classification" >
+                            <option value="Adult">Adult</option>
+                            <option value="Pediatri">Pediatri</option>
+                            <option value="HIV test">HIV test</option>
+                            <option value="HIV test - Ancillary">HIV test - Ancillary</option>
+                            <option value="Malaria">Malaria</option>
+                            <option value="ACT">ACT</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+
+                        <label for="Molecule/Test Type",class="Column1"><b>Molecule/Test Type</b></label>
+                        <select name="Molecule/Test Type" id="Molecule/Test Type" >
+                            <option value="Efavirenz">Efavirenz</option>
+                            <option value="Nevirapine">Nevirapine</option>
+                            <option value="Lamivudine/Nevirapine/Zidovudine">Lamivud/Nevirap/Zidovud-ine</option>
+                            <option value="Lamivudine/Zidovudine">Lamivud/Zidovud-ine</option>
+                            <option value="Lopinavir/Ritonavir">Lopinavir/Ritonavir</option>
+                            <option value="Lamivudine">Lamivudine</option>
+                            <option value="HIV 1/2, Determine Complete HIV Kit">HIV 1/2,Determine Kit</option>
+                            <option value="Zidovudine">Zidovudine</option>
+                            <option value="Abacavir">Abacavir</option>
+                            <option value="HIV 1/2, Uni-Gold HIV Kit">'HIV 1/2,Uni-Gold Kit'</option>
+                            <option value="Other">Other</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+                        <label for="Dosage Form",class="Column1"><b>Dosage Form</b></label>
+                        <select name="Dosage Form" id="Dosage Form" >
+                            <option value="Tablet">Tablet</option>
+                            <option value="Tablet - FDC">Tablet - FDC</option>
+                            <option value="Test kit">Test kit</option>
+                            <option value="Capsule">Capsule</option>
+                            <option value="Oral solution">Oral solution</option>
+                            <option value="Chewable/dispersible tablet - FDC">Chewable/dispersible tablet-FDC</option>
+                            <option value="Oral suspension">Oral suspension</option>
+                            <option value="Test kit - Ancillary">Test kit - Ancillary</option>
+                            <option value="Chewable/dispersible tablet">Chewable/dispersible tablet</option>
+                            <option value="Delayed-release capsules">Delayed-release capsules</option>
+                            <option value="Other">Other</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+                        
+
+                        <label for="Dosage",class="Column1"><b>Dosage</b></label>
+                        <select name="Dosage" id="Dosage" >
+                            <option value="300mg">300mg</option>
+                            <option value="200mg">200mg</option>
+                            <option value="600mg">600mg</option>
+                            <option value="150/300mg">150/300mg</option>
+                            <option value="150/300/200mg">150/300/200mg</option>
+                            <option value="10mg/ml">10mg/ml</option>
+                            <option value="150mg">150mg</option>
+                            <option value="200/50mg">200/50mg</option>
+                            <option value="300/300mg">300/300mg</option>
+                            <option value="Other">Other</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+                        <label for="Managed By",class="Column1"><b>Managed By</b></label>
+                        <select name="Managed By" id="Managed By" >
+                            <option value="South Africa Field Office">South Africa Field Office</option>
+                            <option value="PMO - US">PMO - US</option>
+                            <option value="Haiti Field Office">Haiti Field Office</option>
+                            <option value="Ethiopia Field Office">Ethiopia Field Office</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+                        
+
+                        <label for="Fulfill Via",class="Column1"><b>Fulfill Via</b></label>
+                        <select name="Fulfill Via" id="Fulfill Via">
+                            <option value="1">Retail Distribution</option>
+                            <option value="0">Direct Drop</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+                        <label for="Shipment Mode",class="Column1"><b>Shipment Mode</b></label>
+                        <select name="Shipment Mode" id="Shipment Mode">
+                            <option value="Air">Air</option>
+                            <option value="Truck">Truck</option>
+                            <option value="Air Charter">Air Charter</option>
+                            <option value="Ocean">Ocean</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+                    </div>
+                    <div class="col2">
+
+                        <label for="dlvry_delay",class="Column2" style="margin-top: 12px;"><b>Delivery Delay Time</b></label><br>
+                        <input type="number" id="dlvry_delay" name="dlvry_delay" placeholder=" in Days" step="any" >
+                        &nbsp; &nbsp;
+
+                        <label for="dlvry_verif_time_delay",class="Column2"><b>Delivery Verif. Time</b></label>
+                        <input type="number" id="dlvry_verif_time_delay" name="dlvry_verif_time_delay" placeholder=" in Days" step="any" >
+                        &nbsp; &nbsp;
+
+
+                        <label for="Unit of Measure (Per Pack)",class="Column2"><b>Quantity of pills/kits</b></label>
+                        <input type="number" id="Unit of Measure (Per Pack)" name="Unit of Measure (Per Pack)" placeholder="quant per pack" step="any" >
+
+                        
+
+                        <label for="Line Item Quantity",class="Column2"><b>Line Item Quantity</b></label>
+                        <input type="Line Item Quantity" id="Line Item Quantity" name="Line Item Quantity" placeholder="quant of packs in Shipment" step="any" required>
+                        &nbsp; &nbsp;
+                        
+                        <label for="Pack Price",class="Column2"><b>Pack Price</b></label>
+                        <input type="Pack Price" id="Pack Price" name="Pack Price" placeholder="Pack Price" step="any" >
+
+                        &nbsp; &nbsp;
+
+                        <label for="Unit Price",class="Column2"><b>Unit Price</b></label>
+                        <input type="Unit Price" id="Unit Price" name="Unit Price" placeholder="price of one pill/kit" step="any" >
+                        &nbsp; &nbsp;
+
+                        <label for="First Line Designation",class="Column2"><b>First Line Designation</b></label>
+                        <select name="First Line Designation" id="First Line Designation">
+                            <option value="1">Yes</option>
+                            <option value="0">No</option>
+
+                        </select>
+                        &nbsp; &nbsp;
+
+                        <label for="Weight (Kilograms)",class="Column2"><b>Weight (Kgs)</b></label>
+                        <input type="Weight (Kilograms)" id="Weight (Kilograms)" name="Weight (Kilograms)" placeholder="total wt. of all packs in line" step="any" >
+                        &nbsp; &nbsp;
+
+                        
+
+                        <label for="Freight Cost (USD)"><b>Freight Cost</b></label>
+                        <input type="Freight Cost (USD)" id="Freight Cost (USD)" name="Freight Cost (USD)" placeholder="Freight Cost" step="any" >
+                        &nbsp; &nbsp;
+
+                        
+                        <label for="Freight_cost_special"><b>Freight_cost_special</b></label>
+                        <select name="Freight_cost_special" id="Freight_cost_special">
+                            <option value="Normal Measurement">Normal Measurement</option>
+                            <option value="See ASN/DN Tag">See ASN/DN Tag</option>
+                            <option value="Weight Captured Separately">Weight Captured Separately</option>
+                        </select>
+                        &nbsp; &nbsp;
+
+                        <label for="Line Item Insurance (USD)",class="Column2"><b>Line Item Insurance</b></label>
+                        <input type="Line Item Insurance (USD)" id="Line Item Insurance (USD)" name="Line Item Insurance (USD)" placeholder="Insurance Cost" step="any" required>
+                        &nbsp; &nbsp;
+
+                        <label for="Line Item Value",class="Column2"><b>Line Item Value (USD)</b></label>
+                        <input type="Line Item Value" id="Line Item Value" name="Line Item Value" placeholder="total cost of line items" step="any" required>
+                        &nbsp; &nbsp;
+
+                        <!-- item value = ( Line Item Value + Line Item insurance )/Line Item Quantity -->
+                        
+
+                       
+                    </div>
+                    <div class="Predict">
+                        <input type="submit" value="Predict" style="background: linear-gradient(to right bottom,rgb(221, 122, 122),rgb(228, 181, 181),rgb(158, 238, 158));" >
+                        </div>
+                    
+                    </form>
+                    <br><br>
+
+                </div>
+            </div>
+
+            
+    </body>
+</html>
+
