@@ -10,8 +10,7 @@ def format(data):
         data = pd.DataFrame(data=data, columns=['Country', 'Manufacturing_Site', 'Brand', 'Item_Description'
             , 'Product_Group', 'Sub_Classification', 'Molecule_Test_Type'
             , 'Dosage_Form', 'Dosage', 'Managed_By', 'Fulfill_Via', 'Shipment_Mode'
-            , 'dlvry_delay', 'dlvry_verif_time_delay', 'Unit of Measure (Per Pack)'
-            , 'Line_Item_Quantity', 'Pack Price', 'Unit Price', 'First_Line_Designation'
+            , 'Line_Item_Quantity', 'Pack Price', 'First_Line_Designation'
             , 'Weight (Kilograms)', 'Freight Cost (USD)', 'Freight_cost_special', 'Line_Item_Insurance'
             , 'item_value'])
 

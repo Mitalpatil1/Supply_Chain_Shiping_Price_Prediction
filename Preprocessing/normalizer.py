@@ -6,7 +6,7 @@ import numpy as np
 def normalize(data):
     log_writer = App_Logger()
     try:
-        num_index=["Line_Item_Quantity","Pack Price", "Unit Price","Weight (Kilograms)", "Freight Cost (USD)","Line_Item_Insurance"]
+        num_index=["Line_Item_Quantity","Pack Price","Weight (Kilograms)", "Freight Cost (USD)","Line_Item_Insurance","item_value"]
         func = FunctionTransformer(np.log1p)
         trans = func.fit_transform(data[num_index])
 

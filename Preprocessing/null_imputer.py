@@ -14,12 +14,9 @@ def null_value_imputer(data):
 
         for col in null_cols:
             """clean_col=col
-            if col=="Unit_of_measure":
-                clean_col='Unit of Measure (Per Pack)'
+           
             if col=="Pack_Price":
                 clean_col="Pack Price"
-            if col=="Unit_Price":
-                clean_col="Unit Price"
             if col=="Weight":
                 clean_col='Weight (Kilograms)'
             if col=="Freight_Cost":

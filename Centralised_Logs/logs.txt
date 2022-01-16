@@ -78,3 +78,779 @@ DATE : 2022-01-14 --- TIME : 21:45:41 		 Data normalization Completed Successful
 DATE : 2022-01-14 --- TIME : 21:45:41 		 Data Preprocessing Completed Successfully
 
  
+DATE : 2022-01-16 --- TIME : 19:20:05 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:20:05 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:20:05 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:20:05 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:20:05 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:20:05 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:20:05 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:20:05 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:20:05 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:20:05 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:20:05 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:20:05 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:20:05 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:20:05 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:20:18 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:20:18 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:20:18 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:20:18 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:20:18 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:20:18 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:20:18 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:20:18 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:20:18 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:20:18 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:20:18 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:20:18 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:20:18 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:20:18 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:20:27 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:20:27 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:20:27 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:20:27 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:20:27 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:20:27 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:20:27 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:20:27 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:20:27 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:20:27 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:20:27 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:20:27 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:20:27 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:20:27 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:20:37 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:20:37 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:20:37 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:20:37 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:20:37 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:20:37 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:20:37 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:20:37 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:20:37 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:20:38 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:20:38 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:20:38 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:20:38 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:20:37 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:20:44 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:20:44 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:20:44 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:20:44 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:20:44 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:20:45 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:20:45 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:20:45 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:20:45 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:20:45 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:20:45 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:20:45 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:20:45 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:20:45 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:21:58 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:21:58 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:21:58 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:21:58 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:21:58 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:21:58 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:21:58 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:21:58 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:21:58 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:21:58 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:21:58 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:21:58 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:21:58 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:21:58 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR occured in Data Collection and Aggregation 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 The data type of values in column Fulfill_Via is not same as int64 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 The data type of values in column Line_Item_Quantity is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 The data type of values in column Pack Price is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 The data type of values in column First_Line_Designation is not same as int64 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 The data type of values in column Weight (Kilograms) is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 The data type of values in column Freight Cost (USD) is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 The data type of values in column Line_Item_Insurance is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 The data type of values in column item_value is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR occured in data validation 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR occured in Data Collection and Aggregation 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 The data type of values in column Fulfill_Via is not same as int64 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 The data type of values in column Line_Item_Quantity is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 The data type of values in column Pack Price is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 The data type of values in column First_Line_Designation is not same as int64 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 The data type of values in column Weight (Kilograms) is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 The data type of values in column Freight Cost (USD) is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 The data type of values in column Line_Item_Insurance is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 The data type of values in column item_value is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR occured in data validation 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR occured in Data Collection and Aggregation 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 The data type of values in column Fulfill_Via is not same as int64 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 The data type of values in column Line_Item_Quantity is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 The data type of values in column Pack Price is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 The data type of values in column First_Line_Designation is not same as int64 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 The data type of values in column Weight (Kilograms) is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 The data type of values in column Freight Cost (USD) is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 The data type of values in column Line_Item_Insurance is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 The data type of values in column item_value is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:06 		 ERROR occured in data validation 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR occured in Data Collection and Aggregation 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 The data type of values in column Fulfill_Via is not same as int64 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 The data type of values in column Line_Item_Quantity is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 The data type of values in column Pack Price is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 The data type of values in column First_Line_Designation is not same as int64 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 The data type of values in column Weight (Kilograms) is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 The data type of values in column Freight Cost (USD) is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 The data type of values in column Line_Item_Insurance is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 The data type of values in column item_value is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR occured in data validation 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR occured in Data Collection and Aggregation 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 The data type of values in column Fulfill_Via is not same as int64 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 The data type of values in column Line_Item_Quantity is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 The data type of values in column Pack Price is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 The data type of values in column First_Line_Designation is not same as int64 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 The data type of values in column Weight (Kilograms) is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 The data type of values in column Freight Cost (USD) is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 The data type of values in column Line_Item_Insurance is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 The data type of values in column item_value is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR occured in data validation 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR occured in Data Collection and Aggregation 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 The data type of values in column Fulfill_Via is not same as int64 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 The data type of values in column Line_Item_Quantity is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 The data type of values in column Pack Price is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 The data type of values in column First_Line_Designation is not same as int64 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 The data type of values in column Weight (Kilograms) is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 The data type of values in column Freight Cost (USD) is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 The data type of values in column Line_Item_Insurance is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 The data type of values in column item_value is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:17 		 ERROR occured in data validation 
+DATE : 2022-01-16 --- TIME : 19:22:30 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:22:30 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:22:30 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:22:30 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:22:30 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:22:30 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:22:30 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:22:30 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:22:30 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:22:30 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:22:30 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:22:30 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:22:30 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:22:30 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:22:37 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:22:37 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:22:37 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:22:37 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:22:37 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:22:37 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:22:37 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:22:37 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:22:37 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:22:37 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:22:37 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:22:37 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:22:37 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:22:37 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR occured in Data Collection and Aggregation 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 The data type of values in column Fulfill_Via is not same as int64 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 The data type of values in column Line_Item_Quantity is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 The data type of values in column Pack Price is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 The data type of values in column First_Line_Designation is not same as int64 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 The data type of values in column Weight (Kilograms) is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 The data type of values in column Freight Cost (USD) is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 The data type of values in column Line_Item_Insurance is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 The data type of values in column item_value is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR occured in data validation 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR occured in Data Collection and Aggregation 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 The data type of values in column Fulfill_Via is not same as int64 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 The data type of values in column Line_Item_Quantity is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 The data type of values in column Pack Price is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 The data type of values in column First_Line_Designation is not same as int64 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 The data type of values in column Weight (Kilograms) is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 The data type of values in column Freight Cost (USD) is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 The data type of values in column Line_Item_Insurance is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 The data type of values in column item_value is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR occured in data validation 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR occured in Data Collection and Aggregation 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 The data type of values in column Fulfill_Via is not same as int64 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 The data type of values in column Line_Item_Quantity is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 The data type of values in column Pack Price is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 The data type of values in column First_Line_Designation is not same as int64 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 The data type of values in column Weight (Kilograms) is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 The data type of values in column Freight Cost (USD) is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 The data type of values in column Line_Item_Insurance is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 The data type of values in column item_value is not same as float64 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR in the data type of input data 
+DATE : 2022-01-16 --- TIME : 19:22:49 		 ERROR occured in data validation 
+DATE : 2022-01-16 --- TIME : 19:28:25 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:28:25 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:28:25 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:28:25 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:28:25 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:28:25 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:28:25 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:28:25 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:28:25 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:28:25 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:28:25 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:28:25 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:28:25 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:28:25 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:28:37 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:28:37 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:28:37 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:28:37 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:28:37 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:28:37 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:28:37 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:28:37 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:28:37 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:28:37 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:28:37 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:28:37 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:28:37 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:28:37 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:28:43 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:28:43 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:28:43 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:28:43 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:28:43 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:28:43 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:28:43 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:28:43 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:28:43 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:28:43 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:28:43 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:28:43 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:28:43 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:28:43 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:28:49 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:28:49 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:28:49 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:28:49 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:28:49 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:28:49 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:28:49 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:28:49 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:28:49 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:28:49 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:28:49 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:28:49 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:28:49 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:28:49 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:29:05 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:29:05 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:29:05 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:29:05 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:29:05 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:29:05 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:29:05 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:29:05 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:29:05 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:29:05 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:29:05 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:29:05 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:29:05 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:29:05 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:29:53 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:29:53 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:29:53 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:29:53 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:29:53 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:29:53 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:29:53 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:29:53 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:29:53 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:29:53 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:29:53 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:29:53 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:29:53 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:29:53 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:29:59 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:29:59 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:29:59 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:29:59 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:29:59 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:29:59 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:29:59 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:29:59 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:29:59 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:29:59 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:29:59 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:29:59 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:29:59 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:29:59 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:30:07 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:30:07 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:30:07 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:30:07 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:30:07 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:07 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:30:07 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:30:07 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:30:07 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:30:07 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:30:07 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:30:07 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:07 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:07 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:30:14 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:30:14 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:30:14 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:30:14 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:30:14 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:14 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:30:14 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:30:14 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:30:14 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:30:14 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:30:14 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:30:14 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:14 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:14 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:30:20 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:30:20 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:30:20 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:30:20 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:30:20 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:20 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:30:20 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:30:20 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:30:20 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:30:20 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:30:20 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:30:20 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:20 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:20 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:30:27 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:30:27 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:30:27 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:30:27 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:30:27 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:27 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:30:27 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:30:27 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:30:27 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:30:27 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:30:27 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:30:27 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:27 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:27 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:30:33 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:30:33 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:30:33 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:30:33 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:30:32 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:33 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:30:33 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:30:33 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:30:33 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:30:33 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:30:33 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:30:33 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:33 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:33 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:30:37 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:30:37 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:30:37 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:30:37 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:30:37 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:37 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:30:37 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:30:37 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:30:37 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:30:38 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:30:38 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:30:38 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:38 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:37 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:30:42 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:30:42 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:30:42 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:30:42 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:30:42 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:42 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:30:42 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:30:42 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:30:42 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:30:42 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:30:42 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:30:42 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:42 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:42 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:30:47 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:30:47 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:30:47 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:30:47 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:30:47 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:47 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:30:47 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:30:47 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:30:47 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:30:47 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:30:47 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:30:47 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:47 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:47 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:30:54 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:30:54 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:30:54 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:30:54 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:30:54 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:54 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:30:54 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:30:54 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:30:54 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:30:54 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:30:54 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:30:54 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:54 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:30:54 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:31:04 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:31:04 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:31:04 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:31:04 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:31:04 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:04 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:31:04 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:31:04 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:31:04 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:31:04 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:31:04 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:31:04 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:04 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:04 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:31:11 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:31:11 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:31:11 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:31:11 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:31:11 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:11 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:31:11 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:31:11 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:31:11 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:31:11 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:31:11 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:31:11 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:11 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:11 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:31:17 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:31:17 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:31:17 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:31:17 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:31:17 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:17 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:31:17 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:31:17 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:31:17 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:31:17 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:31:17 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:31:17 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:17 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:17 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:31:22 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:31:22 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:31:22 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:31:22 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:31:22 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:22 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:31:22 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:31:22 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:31:22 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:31:22 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:31:22 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:31:22 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:22 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:22 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:31:29 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:31:29 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:31:29 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:31:29 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:31:29 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:29 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:31:29 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:31:29 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:31:29 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:31:29 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:31:29 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:31:29 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:29 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:29 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:31:34 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:31:34 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:31:34 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:31:34 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:31:34 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:34 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:31:34 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:31:34 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:31:34 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:31:34 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:31:34 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:31:34 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:34 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:34 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:31:41 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:31:41 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:31:41 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:31:41 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:31:41 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:41 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:31:41 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:31:41 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:31:41 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:31:41 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:31:41 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:31:41 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:41 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:41 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:31:49 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:31:49 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:31:49 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:31:49 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:31:49 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:49 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:31:49 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:31:49 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:31:49 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:31:49 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:31:49 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:31:49 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:49 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:49 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:31:57 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:31:57 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:31:57 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:31:57 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:31:57 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:57 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:31:57 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:31:57 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:31:57 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:31:57 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:31:57 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:31:57 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:57 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:31:57 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:32:05 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:32:05 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:32:05 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:32:05 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:32:05 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:32:05 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:32:05 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:32:05 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:32:05 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:32:05 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:32:05 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:32:05 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:32:05 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:32:05 		 Data Preprocessing Completed Successfully
+
+ 
+DATE : 2022-01-16 --- TIME : 19:32:11 		 Collected inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:32:11 		 Aggregated data inputs from HTML form 
+DATE : 2022-01-16 --- TIME : 19:32:11 		 Converting raw data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:32:11 		 Converted Raw Data to DataFrame 
+DATE : 2022-01-16 --- TIME : 19:32:11 		 Formatted Data Successfully 
+DATE : 2022-01-16 --- TIME : 19:32:11 		 Extracted column length and column names from schema 
+DATE : 2022-01-16 --- TIME : 19:32:11 		 Column Length Validated 
+DATE : 2022-01-16 --- TIME : 19:32:11 		 Column Names Validated 
+DATE : 2022-01-16 --- TIME : 19:32:11 		 Data Validation Successfull 
+DATE : 2022-01-16 --- TIME : 19:32:11 		 Encoded all categorical columns successfully 
+DATE : 2022-01-16 --- TIME : 19:32:11 		 Successfully found columns with null values 
+DATE : 2022-01-16 --- TIME : 19:32:11 		 Null Value Imputation Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:32:11 		 Data normalization Completed Successfully 
+DATE : 2022-01-16 --- TIME : 19:32:11 		 Data Preprocessing Completed Successfully
+
+ 

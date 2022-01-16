@@ -41,7 +41,7 @@ def index():
             data = Preprocessor().preprocess(data)
 
 
-            model=pickle.load(open("Model/xgboost.pickle","rb"))
+            model=pickle.load(open("Model/xgboost_final.pickle","rb"))
             pred=model.predict(data)
 
 
@@ -63,4 +63,5 @@ if __name__ == "__main__":
     httpd = simple_server.make_server(host, port, app)
     # print("Serving on %s %d" % (host, port))
     httpd.serve_forever()
+
 

@@ -20,20 +20,6 @@ def aggregate_data():
         Fulfill_Via = int(request.form['Fulfill Via'])
         Shipment_Mode = request.form['Shipment Mode']
 
-        if request.form['dlvry_delay'] == "":
-            dlvry_delay = np.nan
-        else:
-            dlvry_delay = float(request.form['dlvry_delay'])
-
-        if request.form['dlvry_verif_time_delay'] == "":
-            dlvry_verif_time_delay = np.nan
-        else:
-            dlvry_verif_time_delay = float(request.form['dlvry_verif_time_delay'])
-
-        if request.form['Unit of Measure (Per Pack)'] == "":
-            Unit_of_measure = np.nan
-        else:
-            Unit_of_measure = float(request.form['Unit of Measure (Per Pack)'])
 
         if request.form['Line Item Quantity'] == "":
             Line_Item_Quantity = np.nan
@@ -44,11 +30,6 @@ def aggregate_data():
             Pack_Price = np.nan
         else:
             Pack_Price =float(request.form['Pack Price'])
-
-        if request.form['Unit Price'] == "":
-            Unit_Price = np.nan
-        else:
-            Unit_Price = float(request.form['Unit Price'])
 
         First_Line_Designation = int(request.form['First Line Designation'])
 
@@ -81,8 +62,7 @@ def aggregate_data():
         data = [[Country,Manufacturing_Site,Brand,Item_Description
                  ,Product_Group,Sub_Classification,Molecule_Test_Type
                  ,Dosage_Form,Dosage,Managed_By,Fulfill_Via,Shipment_Mode
-                 ,dlvry_delay,dlvry_verif_time_delay,Unit_of_measure
-                 ,Line_Item_Quantity,Pack_Price,Unit_Price,First_Line_Designation
+                 ,Line_Item_Quantity,Pack_Price,First_Line_Designation
                  ,Weight,Freight_Cost,Freight_cost_special,Line_Item_Insurance
                  ,item_value]]
 
